@@ -33,6 +33,6 @@
     "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "uvarc/flask-container"
+    "imageid": "nmagee/learn-hpc"
   }
 }
