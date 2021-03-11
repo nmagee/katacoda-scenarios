@@ -30,9 +30,9 @@
     }
   },
   "environment": {
-    "uilayout": "editor-terminal-split"
+    "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "centos"
+    "imageid": "uvarc/flask-container"
   }
 }
